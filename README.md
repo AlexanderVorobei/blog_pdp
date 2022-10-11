@@ -1,0 +1,12 @@
+## Project development roadmap
+   - [ ] Review tutorials and documentation
+   - [ ] Create a simple test project
+   - [ ] Add tests  [Pytest](https://docs.pytest.org/en/6.2.x/parametrize.html)
+   - [ ] Create a Dockerfile and a Docker image to deploy to a server
+   - [ ] Create a docker-compose.yml to start env
+   - [ ] Use Gitlab [CI](https://docs.gitlab.com/ee/ci/) to deploy on develop branch update
+   - [ ] Add API with DRF, drf-yasg  documentation for [REST API](https://drf-yasg.readthedocs.io/en/stable/readme.html)
+   - [ ] Add frontend with React
+   - [ ] Add Celery
+   - [ ] Switch API to GraphQL
+   - [ ] Postgres

@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "blog-pdp"
+version = "0.1.0"
+description = "Personal blog for implementation PDP"
+authors = ["Oleksandr <oleksandr.vorobei@anvileight.com>"]
+readme = "README.md"
+packages = [{include = "blog_pdp"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
